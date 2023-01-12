@@ -19,6 +19,10 @@ const routes: Routes = [
     path: 'disable',
     loadChildren: () => import('./pages/disable/disable.module').then( m => m.DisablePageModule)
   },
+  {
+    path: 'checkbox',
+    loadChildren: () => import('./pages/checkbox/checkbox.module').then( m => m.CheckboxPageModule)
+  },
 ];
 
 @NgModule({
