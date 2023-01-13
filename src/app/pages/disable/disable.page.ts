@@ -21,6 +21,7 @@ export class DisablePage implements OnInit {
     this.btn = true;
   }
 
+  
   // button
  tapEvent(){
   this.count++;
