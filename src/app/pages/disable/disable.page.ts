@@ -15,10 +15,13 @@ export class DisablePage implements OnInit {
 
   ngOnInit() {
   }
+
+
   btn2() {
     this.btn = true;
   }
 
+  // button
  tapEvent(){
   this.count++;
   setTimeout(() => {
