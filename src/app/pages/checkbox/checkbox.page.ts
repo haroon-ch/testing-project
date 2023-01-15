@@ -7,10 +7,13 @@ import { Component, OnInit } from '@angular/core';
 })
 export class CheckboxPage implements OnInit {
 
+
   constructor() { }
+
 
   ngOnInit() {
   }
+  
   
   
 
