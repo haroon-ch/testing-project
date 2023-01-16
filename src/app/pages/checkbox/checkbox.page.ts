@@ -13,7 +13,7 @@ export class CheckboxPage implements OnInit {
 
   ngOnInit() {
   }
-  
+
 
 
   
