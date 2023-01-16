@@ -11,6 +11,7 @@ export class DisablePage implements OnInit {
 
   
   public count: number = 0;
+  
   constructor() { }
 
   ngOnInit() {
@@ -21,7 +22,7 @@ export class DisablePage implements OnInit {
     this.btn = true;
   }
 
-  
+
 
   // button
  tapEvent(){
@@ -37,4 +38,5 @@ export class DisablePage implements OnInit {
     }
   }, 250);
 }
+
 }
