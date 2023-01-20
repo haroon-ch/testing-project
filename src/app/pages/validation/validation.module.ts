@@ -8,7 +8,6 @@ import { ValidationPageRoutingModule } from './validation-routing.module';
 
 import { ValidationPage } from './validation.page';
 
-
 @NgModule({
   schemas: [
     CUSTOM_ELEMENTS_SCHEMA,

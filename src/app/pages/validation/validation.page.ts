@@ -10,17 +10,12 @@ export class ValidationPage implements OnInit {
 
 
   constructor() { }
-  
+
 
   ngOnInit() {
 
   }
-  // getDate(e:any) {
-  //   let date = new Date(e.target.value).toISOString().substring(0, 10);
-  //   this.ionicForm.get('dob').setValue(date, {
-  //     onlyself: true
-  //   })
-  // }
+
 
 
 
