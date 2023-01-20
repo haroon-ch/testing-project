@@ -17,6 +17,7 @@ export class HomePage {
 
   constructor() {}
 
+
   ngOnInit(){
   this.lineChartMethod();
   this.lineChartMethod2();
@@ -54,6 +55,7 @@ export class HomePage {
       
     });
   }
+
 
 
   lineChartMethod2() {

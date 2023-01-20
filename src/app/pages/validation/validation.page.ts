@@ -10,6 +10,7 @@ export class ValidationPage implements OnInit {
 
 
   constructor() { }
+  
 
   ngOnInit() {
 
