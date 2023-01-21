@@ -6,6 +6,7 @@ import { IonicModule, IonicRouteStrategy } from '@ionic/angular';
 
 import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app-routing.module';
+import { NgApexchartsModule } from 'ng-apexcharts';
 
 // validation
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
@@ -21,7 +22,7 @@ import { AngularFireAuthModule } from '@angular/fire/compat/auth';
   imports: [BrowserModule, IonicModule.forRoot(),
      AppRoutingModule,  
     FormsModule, 
-
+    NgApexchartsModule,
     ReactiveFormsModule,
     
   ],
