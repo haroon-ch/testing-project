@@ -3,7 +3,6 @@ import { IonicModule } from '@ionic/angular';
 
 import { ValidationPage } from './validation.page';
 
-
 describe('ValidationPage', () => {
   let component: ValidationPage;
   let fixture: ComponentFixture<ValidationPage>;
