@@ -39,7 +39,7 @@ export class HomePage {
   // @ViewChild("chart") chart: ChartComponent;
   public chartOptions: Partial<ChartOptions>;
   
-  
+
 
   constructor() {
     this.chartOptions = {
