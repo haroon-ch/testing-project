@@ -11,6 +11,7 @@ describe('AppComponent', () => {
       schemas: [CUSTOM_ELEMENTS_SCHEMA],
     }).compileComponents();
   });
+  
 
   it('should create the app', () => {
     const fixture = TestBed.createComponent(AppComponent);
