@@ -40,7 +40,6 @@ export class HomePage {
   public chartOptions: Partial<ChartOptions>;
   
 
-
   constructor() {
     this.chartOptions = {
       series: [
