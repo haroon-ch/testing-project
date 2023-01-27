@@ -4,6 +4,7 @@ import { FormsModule } from '@angular/forms';
 
 import { IonicModule } from '@ionic/angular';
 
+
 import { CheckboxPageRoutingModule } from './checkbox-routing.module';
 
 

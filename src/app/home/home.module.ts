@@ -7,6 +7,7 @@ import { HomePage } from './home.page';
 import { HomePageRoutingModule } from './home-routing.module';
 import { NgApexchartsModule } from 'ng-apexcharts';
 
+
 @NgModule({
   schemas: [
     CUSTOM_ELEMENTS_SCHEMA,
