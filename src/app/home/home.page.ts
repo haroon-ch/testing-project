@@ -14,6 +14,7 @@ import {
   ApexGrid
 } from "ng-apexcharts";
 
+
 export type ChartOptions = {
   series: ApexAxisChartSeries;
   chart: ApexChart;
@@ -31,6 +32,7 @@ export type ChartOptions = {
 })
 export class HomePage {
 
+  
 
   // @ViewChild('lineChart') private lineCanvas: ElementRef | undefined;
   public lineChart:any;

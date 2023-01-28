@@ -12,6 +12,7 @@ export class CheckboxPage implements OnInit {
   constructor() { }
 
 
+  
   ngOnInit() {
   }
 
