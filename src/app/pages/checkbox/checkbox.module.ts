@@ -9,6 +9,7 @@ import { CheckboxPageRoutingModule } from './checkbox-routing.module';
 
 
 
+
 import { CheckboxPage } from './checkbox.page';
 
 @NgModule({
