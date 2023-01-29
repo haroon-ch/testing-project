@@ -5,7 +5,6 @@ import { CheckboxPage } from './checkbox.page';
 
 
 
-
 describe('CheckboxPage', () => {
   let component: CheckboxPage;
   let fixture: ComponentFixture<CheckboxPage>;

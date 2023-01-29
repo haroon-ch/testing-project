@@ -33,6 +33,7 @@ export type ChartOptions = {
 export class HomePage {
 
 
+  
 
   // @ViewChild('lineChart') private lineCanvas: ElementRef | undefined;
   public lineChart:any;
