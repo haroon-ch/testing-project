@@ -3,12 +3,14 @@ import { Routes, RouterModule } from '@angular/router';
 
 import { CheckboxPage } from './checkbox.page';
 
+
 const routes: Routes = [
   {
     path: '',
     component: CheckboxPage
   }
 ];
+
 
 
 @NgModule({
