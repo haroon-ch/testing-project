@@ -7,7 +7,6 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./checkbox.page.scss'],
 })
 export class CheckboxPage implements OnInit {
-
   
 
   constructor() { }
