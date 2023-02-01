@@ -12,6 +12,7 @@ import { NgApexchartsModule } from 'ng-apexcharts';
   schemas: [
     CUSTOM_ELEMENTS_SCHEMA,
     NO_ERRORS_SCHEMA
+    
   ],
   imports: [
     CommonModule,
