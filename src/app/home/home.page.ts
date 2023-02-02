@@ -34,7 +34,6 @@ export class HomePage {
 
 
 
-
   // @ViewChild('lineChart') private lineCanvas: ElementRef | undefined;
   public lineChart:any;
   public  lineChart2:any;
