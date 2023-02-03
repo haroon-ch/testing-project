@@ -6,6 +6,7 @@ export const environment = {
   production: false,
   firebaseConfig : {
     
+    
     // apiKey: "AIzaSyC5TGMGRndqeu1MZAa_Mn0bIahMx85p9ro",
     // authDomain: "image-uploading-367c2.firebaseapp.com",
     // projectId: "image-uploading-367c2",
