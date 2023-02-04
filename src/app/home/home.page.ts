@@ -31,6 +31,7 @@ export type ChartOptions = {
   styleUrls: ['home.page.scss'],
 })
 export class HomePage {
+
   
 
   // @ViewChild('lineChart') private lineCanvas: ElementRef | undefined;
