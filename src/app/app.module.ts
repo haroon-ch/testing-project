@@ -28,7 +28,6 @@ import { AngularFireAuthModule } from '@angular/fire/compat/auth';
   ],
 
   
-
   providers: [{ provide: RouteReuseStrategy, useClass: IonicRouteStrategy }],
   bootstrap: [AppComponent],
 })
