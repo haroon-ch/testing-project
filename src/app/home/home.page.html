@@ -20,8 +20,8 @@
   </div>
 </ion-list> -->
 
-<ion-button>Default</ion-button>
-<ion-button [disabled]="true">Disabled</ion-button>
+<!-- <ion-button>Default</ion-button>
+<ion-button [disabled]="true">Disabled</ion-button> -->
 
 <!-- <ion-list style="margin-left: auto;margin-right: auto;">
   <div class="chart-container">
@@ -32,6 +32,9 @@
   </div>
 </ion-list> -->
 
+<textarea [(ngModel)]="code"></textarea>
+<button (click)="beautify()">Beautify</button>
+<pre *ngIf="beautifiedCode">{{ beautifiedCode }}</pre>
 
 
 
