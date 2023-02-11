@@ -41,13 +41,11 @@ export class HomePage {
   ngOnInit(): void {
   }
 
-
   
   beautify() {
     // Your logic to beautify the code goes here
     this.beautifiedCode = 'The beautified code goes here';
   }
-
   // @ViewChild('lineChart') private lineCanvas: ElementRef | undefined;
   // public lineChart:any;
   // public  lineChart2:any;
